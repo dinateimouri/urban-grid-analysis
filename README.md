@@ -4,4 +4,4 @@ The gridding.py module focuses on generating grids within the city boundaries ba
 The common_ods_plots.py module performs statistical analysis on the gridded data. It generates plots to visualize the distribution of origin-destination pairs . 
 The common_ods_paths.py module extracts and saves the common origin-destination paths that have more than two associated trajectories.
 
-For more details on the research behind this code, check out my thesis [here](https://lnkd.in/diu_Y9sp).
+For more details on the research behind this code, check out my paper [here](https://www.tandfonline.com/doi/full/10.1080/17489725.2023.2229285?src=) and my thesis [here](https://lnkd.in/diu_Y9sp).
